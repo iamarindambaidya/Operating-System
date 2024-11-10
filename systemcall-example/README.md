@@ -9,7 +9,7 @@ The `hello.sh` script is a simple Bash script that continuously prints "hello wo
 
 2. **Running the Script**:
    - `bash hello.sh`: This command is used to execute the `hello.sh` script.
-
+![Running hello.sh](images/running_hello_sh.png)
 3. **Monitoring Processes**:
    - `ps -a`: Lists all running processes associated with the current terminal.
    - `ps -al`: Provides a detailed list of all running processes, including additional information like process IDs (PIDs).
